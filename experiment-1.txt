@@ -1,0 +1,26 @@
+
+                                                       EXPERIMENT -1
+IN LAB
+----
+1.create local repository
+2.configure git with your credentials
+3.intialize git in your project directory
+4.add files to the local repository
+5.commit changes
+6.create a remote repository on GitHub
+7.link local repository to remote repository
+8.push files from local to remote repository
+
+
+commands
+--------
+1.git status
+2.git add
+3.git commit
+4.git push
+
+
+POST LAB
+-----
+1.pulling changes from remote repository
+2.resolving merge conflicts during the pull
